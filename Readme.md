@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Serhii Moskalchuk](https://up.htmlacademy.ru/htmlcss/17/user/400897).
-* Наставник: `Неизвестно`.
+* Наставник: `Nikita Nafranets`.
 
 ---
 
